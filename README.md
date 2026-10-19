@@ -80,7 +80,7 @@ Or download the PDF directly from the repository.
 
 ### 3. Open the PDF
 
-Open `Python_Notes_Learn_by_Doing.pdf` in your preferred PDF reader.
+Open `Python Notes.pdf` in your preferred PDF reader.
 
 ### 4. Practise as you learn
 
